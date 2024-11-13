@@ -1,0 +1,7 @@
+Origin: - 源了个源
+Label: - 源了个源
+Description: 介绍个得啊
+Suite: stable
+Version: 1.0
+Architectures: iphoneos-arm64 
+Components: main
